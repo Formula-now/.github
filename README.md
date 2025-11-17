@@ -1,2 +1,2 @@
-# .github
-Formula github public README
+# Formula
+Visit https://formula.now for more informations.
